@@ -1,16 +1,17 @@
-# start_flutter_with_docker
+# Docker Container with Flutter
 
-A new Flutter project.
+## Docker image  for flutter web app
 
-## Getting Started
+This project is and example to create docker file to flutter app and run flutter web app on server with simple steps which shows how to do the following:
 
-This project is a starting point for a Flutter application.
+1. Create flutter app
+2. Create server.sh to create server
+3. Create Dockerfile in dir
+4. Create Docker image
+5. Create and push Docker container to Docker hub
 
-A few resources to get you started if this is your first Flutter project:
+### Project Requirment:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter (v 3.3.0)
+* Docker
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
